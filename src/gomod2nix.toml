@@ -1,0 +1,6 @@
+schema = 3
+
+[mod]
+  [mod."github.com/fahimbagar/just-useless-module"]
+    version = "v1.0.0"
+    hash = "sha256-3zO4mkx/BLnoDVQcMD9SzgP9nccNWmERbbSHDkNpD9A="
